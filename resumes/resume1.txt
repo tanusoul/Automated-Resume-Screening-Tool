@@ -1,0 +1,4 @@
+Name: Rahul Sharma
+Skills: Python, SQL, Machine Learning, Data Analysis, Excel
+Experience: 2 years Data Analyst
+Projects: Built ML models and dashboards

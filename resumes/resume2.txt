@@ -1,0 +1,4 @@
+Name: Priya Verma
+Skills: Python, Data Analysis, Excel
+Experience: 1 year Analyst
+Projects: Data cleaning and visualization

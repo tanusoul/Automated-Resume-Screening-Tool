@@ -1,0 +1,14 @@
+We are hiring a Data Analyst.
+
+Required Skills:
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Excel
+- Data Visualization
+
+Responsibilities:
+- Analyze large datasets
+- Build predictive models
+- Create dashboards and reports

@@ -1,0 +1,4 @@
+Name: Amit Singh
+Skills: Java, SQL, Excel
+Experience: 1 year Software Developer
+Projects: Backend systems
